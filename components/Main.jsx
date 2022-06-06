@@ -15,10 +15,10 @@ export default function Main() {
           </h1>
           <h1 className="py-4 text-gray-700">Un developpeur Web Fullstack</h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            Je suis un développeur web Fullstack spécialisé en Javascript.
+            {`Je suis un développeur web Fullstack spécialisé en Javascript.
             Ingénieur procédés de formation, j'ai réalisé une reconversion
             professionnelle dans le développement web en intégrant la Wild Code
-            School de Lyon.{" "}
+            School de Lyon.`}{" "}
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
